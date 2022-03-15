@@ -1,19 +1,26 @@
 h1 {
-  color: red;
-  text-align: center;
+  
+  color: rgb(9, 116, 9);
 }
 
 h2 {
-  font-style: italic;
+ 
 }
 
-p {
+p{ 
   font-family: 'Times New Roman', Times, serif;
-  font-size: large;
-  font-weight: 500;
+  font-size: larger;
 }
 
 li {
-  line-height: 50px;
+  
+  color: red; 
 }
+
+body {
+  background-color: gold;
+  text-align: center;
+}
+
+
 
